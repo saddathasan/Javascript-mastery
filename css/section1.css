@@ -1,0 +1,13 @@
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to top left, blue, midnightblue);
+}
+.h2-text {
+    color: white;
+    font-size: 48pt;
+    font-family: sans-serif;
+    text-align: center;
+}

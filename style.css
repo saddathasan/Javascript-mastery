@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    background: linear-gradient(to top left, skyblue, blue)
+}
+
+.section {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.link {
+    text-decoration: underline;
+    color: azure;
+    font-weight: 300;
+}
